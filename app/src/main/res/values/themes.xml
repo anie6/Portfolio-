@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TicTacToe" parent="android:Theme.Material.Light.NoActionBar" />
+<!--    <color name="gray_background">#FFF5F7F6</color>-->
+
+    <item name = "androidstatusBarColor" type="color">@color/gray_background</item>
+<!--    <item name = "androidwindowLightStatusBar" >true</item>-->
+</resources>
