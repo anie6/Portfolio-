@@ -155,11 +155,7 @@ fun GameScreen(
                     shape = RoundedCornerShape(5.dp),
                     modifier = Modifier
                         .padding(16.dp)
-                        .background(BlueCustom)
-                        .shadow(
-                            elevation = 5.dp,
-                            shape = RoundedCornerShape(5.dp)
-                        )
+
                 ) {
                     Text(
                         text = "Play Again",
